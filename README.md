@@ -1,6 +1,6 @@
 "# Manual-Testing-Project"
 
-web application link: [https://www.bdshop.com/](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login)
+web application link: (https://opensource-demo.orangehrmlive.com/web/index.php/auth/login)
 
 This manual testing project includes testing various web application functionalities, including login and Validation that the My Info Module allows employees to view and update personal information accurately. 
 The testing was conducted using Microsoft Excel to create test cases and track test results. 
